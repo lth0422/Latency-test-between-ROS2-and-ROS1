@@ -1,0 +1,25 @@
+[4.102s] Invoking command in '/home/ubuntu/ros2_ws/src/ros2_latency_test': PYTHONPATH=/home/ubuntu/ros2_ws/build/ros2_latency_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_latency_test build --build-base /home/ubuntu/ros2_ws/build/ros2_latency_test/build install --record /home/ubuntu/ros2_ws/build/ros2_latency_test/install.log --single-version-externally-managed install_data
+[5.732s] running egg_info
+[5.736s] writing ../../build/ros2_latency_test/ros2_latency_test.egg-info/PKG-INFO
+[5.740s] writing dependency_links to ../../build/ros2_latency_test/ros2_latency_test.egg-info/dependency_links.txt
+[5.743s] writing entry points to ../../build/ros2_latency_test/ros2_latency_test.egg-info/entry_points.txt
+[5.744s] writing requirements to ../../build/ros2_latency_test/ros2_latency_test.egg-info/requires.txt
+[5.745s] writing top-level names to ../../build/ros2_latency_test/ros2_latency_test.egg-info/top_level.txt
+[5.752s] reading manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'
+[5.757s] writing manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'
+[5.758s] running build
+[5.759s] running build_py
+[5.759s] copying ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test
+[5.762s] running install
+[5.763s] running install_lib
+[5.768s] copying /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test
+[5.775s] byte-compiling /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test/pub_node.py to pub_node.cpython-310.pyc
+[5.776s] running install_data
+[5.777s] running install_egg_info
+[5.798s] removing '/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info' (and everything under it)
+[5.802s] Copying ../../build/ros2_latency_test/ros2_latency_test.egg-info to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info
+[5.803s] running install_scripts
+[5.910s] Installing latency_pub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test
+[5.913s] Installing latency_sub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test
+[5.915s] writing list of installed files to '/home/ubuntu/ros2_ws/build/ros2_latency_test/install.log'
+[6.060s] Invoked command in '/home/ubuntu/ros2_ws/src/ros2_latency_test' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/ros2_latency_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_latency_test build --build-base /home/ubuntu/ros2_ws/build/ros2_latency_test/build install --record /home/ubuntu/ros2_ws/build/ros2_latency_test/install.log --single-version-externally-managed install_data

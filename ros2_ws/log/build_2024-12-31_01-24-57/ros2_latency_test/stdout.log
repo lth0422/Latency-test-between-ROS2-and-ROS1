@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/ros2_latency_test/ros2_latency_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_latency_test/ros2_latency_test.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_latency_test/ros2_latency_test.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_latency_test/ros2_latency_test.egg-info/requires.txt
+writing top-level names to ../../build/ros2_latency_test/ros2_latency_test.egg-info/top_level.txt
+reading manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test
+copying ros2_latency_test/sub_node.py -> /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test
+running install
+running install_lib
+copying /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test
+copying /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test/sub_node.py -> /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test
+byte-compiling /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test/pub_node.py to pub_node.cpython-310.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test/sub_node.py to sub_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ros2_latency_test/ros2_latency_test.egg-info to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info
+running install_scripts
+Installing latency_pub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test
+Installing latency_sub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test
+writing list of installed files to '/home/ubuntu/ros2_ws/build/ros2_latency_test/install.log'

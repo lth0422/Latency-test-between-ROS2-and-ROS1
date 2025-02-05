@@ -1,0 +1,4 @@
+[console_scripts]
+latency_pub = ros2_latency_test.pub_node:main
+latency_sub = ros2_latency_test.sub_node:main
+

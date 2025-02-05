@@ -1,0 +1,94 @@
+[0.000000] (-) TimerEvent: {}
+[0.001984] (ros2_latency_test) JobQueued: {'identifier': 'ros2_latency_test', 'dependencies': OrderedDict()}
+[0.002716] (ros2_latency_test) JobStarted: {'identifier': 'ros2_latency_test'}
+[0.098943] (-) TimerEvent: {}
+[0.199693] (-) TimerEvent: {}
+[0.301705] (-) TimerEvent: {}
+[0.402699] (-) TimerEvent: {}
+[0.503928] (-) TimerEvent: {}
+[0.605060] (-) TimerEvent: {}
+[0.705836] (-) TimerEvent: {}
+[0.806595] (-) TimerEvent: {}
+[0.907455] (-) TimerEvent: {}
+[1.008265] (-) TimerEvent: {}
+[1.109064] (-) TimerEvent: {}
+[1.210003] (-) TimerEvent: {}
+[1.311096] (-) TimerEvent: {}
+[1.412166] (-) TimerEvent: {}
+[1.513010] (-) TimerEvent: {}
+[1.614000] (-) TimerEvent: {}
+[1.715617] (-) TimerEvent: {}
+[1.817008] (-) TimerEvent: {}
+[1.917892] (-) TimerEvent: {}
+[2.018691] (-) TimerEvent: {}
+[2.119993] (-) TimerEvent: {}
+[2.221156] (-) TimerEvent: {}
+[2.323485] (-) TimerEvent: {}
+[2.424553] (-) TimerEvent: {}
+[2.525630] (-) TimerEvent: {}
+[2.626689] (-) TimerEvent: {}
+[2.727821] (-) TimerEvent: {}
+[2.828745] (-) TimerEvent: {}
+[2.929598] (-) TimerEvent: {}
+[3.030377] (-) TimerEvent: {}
+[3.131215] (-) TimerEvent: {}
+[3.261189] (-) TimerEvent: {}
+[3.361970] (-) TimerEvent: {}
+[3.462693] (-) TimerEvent: {}
+[3.563499] (-) TimerEvent: {}
+[3.664363] (-) TimerEvent: {}
+[3.765242] (-) TimerEvent: {}
+[3.866141] (-) TimerEvent: {}
+[3.967132] (-) TimerEvent: {}
+[4.067888] (-) TimerEvent: {}
+[4.168703] (-) TimerEvent: {}
+[4.269696] (-) TimerEvent: {}
+[4.371206] (-) TimerEvent: {}
+[4.399782] (ros2_latency_test) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/ros2_latency_test', 'build', '--build-base', '/home/ubuntu/ros2_ws/build/ros2_latency_test/build', 'install', '--record', '/home/ubuntu/ros2_ws/build/ros2_latency_test/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/ubuntu/ros2_ws/src/ros2_latency_test', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'ubuntu', 'SSH_CLIENT': '192.168.0.129 62325 22', 'XDG_SESSION_TYPE': 'tty', 'GIT_ASKPASS': '/home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/extensions/git/dist/askpass.sh', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'BROWSER': '/home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/bin/helpers/browser.sh', 'MOTD_SHOWN': 'pam', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu', 'TERM_PROGRAM_VERSION': '1.96.2', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-f85856ad-16a4-403b-b583-8932d830d8a0.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/node', 'SSL_CERT_FILE': '/usr/lib/ssl/certs/ca-certificates.crt', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'ROS_DISTRO': 'humble', 'LOGNAME': 'ubuntu', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '72', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/bin/remote-cli:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'SSL_CERT_DIR': '/usr/lib/ssl/certs', 'LANG': 'C.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-1a7721a264.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/ubuntu/ros2_ws/build/ros2_latency_test', 'SSH_CONNECTION': '192.168.0.129 62325 192.168.0.94 22', 'XDG_DATA_DIRS': '/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/ubuntu/ros2_ws/build/ros2_latency_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[4.471382] (-) TimerEvent: {}
+[4.572294] (-) TimerEvent: {}
+[4.673154] (-) TimerEvent: {}
+[4.774004] (-) TimerEvent: {}
+[4.874882] (-) TimerEvent: {}
+[4.975770] (-) TimerEvent: {}
+[5.076561] (-) TimerEvent: {}
+[5.177447] (-) TimerEvent: {}
+[5.278330] (-) TimerEvent: {}
+[5.379258] (-) TimerEvent: {}
+[5.480059] (-) TimerEvent: {}
+[5.580862] (-) TimerEvent: {}
+[5.681604] (-) TimerEvent: {}
+[5.783466] (-) TimerEvent: {}
+[5.789141] (ros2_latency_test) StdoutLine: {'line': b'running egg_info\n'}
+[5.792931] (ros2_latency_test) StdoutLine: {'line': b'writing ../../build/ros2_latency_test/ros2_latency_test.egg-info/PKG-INFO\n'}
+[5.795110] (ros2_latency_test) StdoutLine: {'line': b'writing dependency_links to ../../build/ros2_latency_test/ros2_latency_test.egg-info/dependency_links.txt\n'}
+[5.796288] (ros2_latency_test) StdoutLine: {'line': b'writing entry points to ../../build/ros2_latency_test/ros2_latency_test.egg-info/entry_points.txt\n'}
+[5.797386] (ros2_latency_test) StdoutLine: {'line': b'writing requirements to ../../build/ros2_latency_test/ros2_latency_test.egg-info/requires.txt\n'}
+[5.798958] (ros2_latency_test) StdoutLine: {'line': b'writing top-level names to ../../build/ros2_latency_test/ros2_latency_test.egg-info/top_level.txt\n'}
+[5.813303] (ros2_latency_test) StdoutLine: {'line': b"reading manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'\n"}
+[5.827171] (ros2_latency_test) StdoutLine: {'line': b"writing manifest file '../../build/ros2_latency_test/ros2_latency_test.egg-info/SOURCES.txt'\n"}
+[5.830411] (ros2_latency_test) StdoutLine: {'line': b'running build\n'}
+[5.831354] (ros2_latency_test) StdoutLine: {'line': b'running build_py\n'}
+[5.832336] (ros2_latency_test) StdoutLine: {'line': b'copying ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test\n'}
+[5.833189] (ros2_latency_test) StdoutLine: {'line': b'copying ros2_latency_test/sub_node.py -> /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test\n'}
+[5.841051] (ros2_latency_test) StdoutLine: {'line': b'running install\n'}
+[5.842298] (ros2_latency_test) StdoutLine: {'line': b'running install_lib\n'}
+[5.844468] (ros2_latency_test) StdoutLine: {'line': b'copying /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test/pub_node.py -> /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test\n'}
+[5.846262] (ros2_latency_test) StdoutLine: {'line': b'copying /home/ubuntu/ros2_ws/build/ros2_latency_test/build/lib/ros2_latency_test/sub_node.py -> /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test\n'}
+[5.850411] (ros2_latency_test) StdoutLine: {'line': b'byte-compiling /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test/pub_node.py to pub_node.cpython-310.pyc\n'}
+[5.857012] (ros2_latency_test) StdoutLine: {'line': b'byte-compiling /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test/sub_node.py to sub_node.cpython-310.pyc\n'}
+[5.858641] (ros2_latency_test) StdoutLine: {'line': b'running install_data\n'}
+[5.860144] (ros2_latency_test) StdoutLine: {'line': b'running install_egg_info\n'}
+[5.879365] (ros2_latency_test) StdoutLine: {'line': b"removing '/home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[5.882151] (ros2_latency_test) StdoutLine: {'line': b'Copying ../../build/ros2_latency_test/ros2_latency_test.egg-info to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/python3.10/site-packages/ros2_latency_test-0.0.0-py3.10.egg-info\n'}
+[5.883635] (-) TimerEvent: {}
+[5.907984] (ros2_latency_test) StdoutLine: {'line': b'running install_scripts\n'}
+[5.983920] (-) TimerEvent: {}
+[6.035962] (ros2_latency_test) StdoutLine: {'line': b'Installing latency_pub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test\n'}
+[6.040150] (ros2_latency_test) StdoutLine: {'line': b'Installing latency_sub script to /home/ubuntu/ros2_ws/install/ros2_latency_test/lib/ros2_latency_test\n'}
+[6.040958] (ros2_latency_test) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu/ros2_ws/build/ros2_latency_test/install.log'\n"}
+[6.084326] (-) TimerEvent: {}
+[6.185873] (-) TimerEvent: {}
+[6.195740] (ros2_latency_test) CommandEnded: {'returncode': 0}
+[6.280126] (ros2_latency_test) JobEnded: {'identifier': 'ros2_latency_test', 'rc': 0}
+[6.283582] (-) EventReactorShutdown: {}
